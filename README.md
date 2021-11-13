@@ -1,2 +1,3 @@
-"# range-finder"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/mykytaishchenko/range-finder.git
-"# range-finder" 
+## Далекомір HC-SR04 із використанням малої логіки.
+**Виконавець:** Іщенко Микита.
+**Очікуваний результат:** Базовий далекомір на основі HC-SR04 побудований на використанні малої логіки.
